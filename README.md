@@ -7,3 +7,7 @@ This repository shares the data of students in the Data Analysis class.
 ***
 2.) This page further talks about their educational level, what group there were during the ttaining and employment status.
 ![](cp2.png)
+
+***
+3.) This last page shows gender distribution by age group.
+![](cpp3.png)
